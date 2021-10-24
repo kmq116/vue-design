@@ -24,4 +24,4 @@ jobs:
           BRANCH: master
           FOLDER: docs/.vuepress/dist
           REPOSITORY_NAME: kmq116/kmq116.github.io
-          TARGET_FOLDER: vue
+          TARGET_FOLDER: vue-design
